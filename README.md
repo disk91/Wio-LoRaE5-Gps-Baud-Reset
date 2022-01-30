@@ -5,3 +5,5 @@ Reset the LoRa-E5 GPS baudrate to 9600bps (some are 115200 by default)
 Compile and upload to your Wio with the LoRa-E5 board connected
 Follow instruction displayed on Wio
 
+# Binary
+Binary version can be found in the WioLoRaWanFieldTester repository
